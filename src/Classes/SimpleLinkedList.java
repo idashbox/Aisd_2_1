@@ -154,15 +154,6 @@ public class SimpleLinkedList<T> implements Iterable<Integer> {
         }
     }
     //    .\input.txt .\output.txt
-//    public static String massivVStroki(int [] array){
-//        StringBuilder answer = new StringBuilder();
-//        for (int mas : array){
-//            answer.append(mas);
-//            answer.append(" ");
-//        }
-//
-//        return answer.toString();
-//    }
 
 
     @Override

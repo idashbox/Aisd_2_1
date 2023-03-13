@@ -27,7 +27,7 @@
         </constraints>
         <properties>
           <font name="JetBrains Mono" size="14" style="1"/>
-          <text value="Введите текст или выберите файл для форматирования:"/>
+          <text value="Введите элементы списка для  сортировки или выберите файл для форматирования:"/>
         </properties>
       </component>
       <component id="63e23" class="javax.swing.JTextField" binding="textField1" default-binding="true">
